@@ -1,0 +1,5 @@
+.DS_Store
+test*.ipynb
+.ipynb_checkpoints
+explorer/data/*.ndjson
+explorer/data/umap-1m.json
